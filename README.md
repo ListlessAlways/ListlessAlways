@@ -10,11 +10,7 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
-**Software Engineer** &#12299; Interested in backend development and functional programming
+**Software Engineer** &#12299; Interested in full-stack development and functional programming
 
 ----
 
-**I like to...**
-- learn the korean language
-- play tabletop games
-- read One Piece
